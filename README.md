@@ -4,6 +4,10 @@ JavaFX Snake Game that allows users to:
 - adjust board dimensions 
 - restart game when snake dies
 
-https://user-images.githubusercontent.com/73093864/127213347-fc7ac830-bef0-4ba4-bde8-15b181048d56.mp4
+
+
+https://user-images.githubusercontent.com/73093864/127214193-3301c314-2bed-437d-9599-5f38e174b035.mp4
+
+
 
 
