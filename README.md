@@ -1,4 +1,5 @@
 # Breadth-First-Search-JavaFX-Snake-Game-
+https://user-images.githubusercontent.com/73093864/127212513-56b4c078-a628-43ae-b518-6e36e8108bd1.mp4
 JavaFX Snake Game that allows users to:
 - make the snake move on its own by utlizing the Breadth First Search algorithm
 - adjust board dimensions 
