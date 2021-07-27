@@ -16,7 +16,7 @@ public class Body {
 		this.column = column;
 		snake.setX(50);
 		snake.setY(50);
-		snake.setWidth(Math.round(500/row*100.0)/100.0);
+		snake.setWidth(Math.round(500/row*100.0)/100.0);         //used Math.round to round to nearest hundredth place, because some numbers have repeating decimals
 		snake.setHeight(Math.round(500/column*100.0)/100.0);
 		snake.setFill(Color.WHITE);
 		snake.setStroke(Color.BLACK);
